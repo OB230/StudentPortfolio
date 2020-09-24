@@ -15,7 +15,7 @@ import javafx.scene.text.Text;
 import javafx.stage.Stage; 
 import javafx.geometry.Pos;
 
-public class ChangingFace2_Y3872096 extends Application {
+public class ChangingFace2 extends Application {
 	
 	 @Override     
 	 public void start(Stage stage)     
